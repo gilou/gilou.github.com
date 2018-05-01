@@ -1,6 +1,5 @@
 ### Projets hébergés sur Github
-* Version perso non maitenue de genethumb.sh
-https://github.com/gilou/genethumb
+* [https://github.com/gilou/genethumb](Version perso non maintenue de genethumb.sh)
 
-* Un cartoucheur pour me remettre au Javascript 
-https://github.com/gilou/cartoucheur
+* [https://github.com/gilou/cartoucheur](Un cartoucheur pour me remettre au Javascript)
+
